@@ -1,0 +1,131 @@
+{
+  "app": {
+    "name": "StudyTech Advisor"
+  },
+  "nav": {
+    "home": "Home",
+    "learn": "Learn Basics",
+    "quiz": "Smart Quiz",
+    "trusted": "Trusted Devices",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "favorites": "Favorites",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "lang": "العربية",
+    "theme": "Theme"
+  },
+  "home": {
+    "headline": "Choose your university device with confidence",
+    "sub": "A bilingual smart platform helping Malaysian students pick the best laptop for major, budget, and usage.",
+    "startQuiz": "Start Quiz",
+    "learnBasics": "Learn Basics",
+    "trust": "Trusted by students in Malaysia",
+    "featuresTitle": "Built for clarity",
+    "f1": "Precise recommendations",
+    "f2": "Official product links",
+    "f3": "Save favorites"
+  },
+  "learn": {
+    "title": "Laptop Buying Basics",
+    "mistakes": "Common mistakes",
+    "m1": "Buying by design only without reviewing specs.",
+    "m2": "Choosing low RAM for heavy academic tools.",
+    "m3": "Ignoring battery life for long campus days.",
+    "m4": "Relying on unofficial deals without warranty.",
+    "compare": "Windows vs macOS",
+    "w1": "Windows: flexible ecosystem and broad price range.",
+    "w2": "macOS: strong integration, battery life, and stable updates.",
+    "w3": "Choose based on required software in your major."
+  },
+  "quiz": {
+    "title": "Smart Quiz",
+    "helper": "Answer a few questions to get your top 3 devices.",
+    "next": "Next",
+    "prev": "Previous",
+    "submit": "See Results",
+    "other": "Other",
+    "otherPlaceholder": "Type your custom value",
+    "q_major": "What is your major?",
+    "q_budget": "What is your budget range?",
+    "q_usage": "What is your primary usage?",
+    "q_pref": "What matters most to you?"
+  },
+  "results": {
+    "title": "Top Recommendations",
+    "empty": "No results found. Complete the quiz first.",
+    "match": "Match",
+    "reason": "Reason",
+    "view": "View Product",
+    "save": "Save to Favorites",
+    "saved": "Saved",
+    "cpu": "CPU",
+    "ram": "RAM",
+    "storage": "Storage",
+    "gpu": "GPU",
+    "battery": "Battery",
+    "price": "Price"
+  },
+  "trusted": {
+    "title": "Trusted Devices",
+    "sub": "Official devices from global brands suitable for students."
+  },
+  "favorites": {
+    "title": "Favorite Devices",
+    "empty": "No saved devices yet.",
+    "remove": "Remove"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "quick": "Quick actions",
+    "goQuiz": "Start new quiz",
+    "student": "Student"
+  },
+  "profile": {
+    "title": "Profile",
+    "name": "Name",
+    "email": "Email",
+    "university": "University",
+    "major": "Major"
+  },
+  "about": {
+    "title": "About StudyTech Advisor",
+    "desc": "StudyTech Advisor helps university students in Malaysia choose devices with practical and academic-fit guidance."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "Are recommendations real?",
+    "a1": "Yes. We use real specs and official links.",
+    "q2": "Is this free?",
+    "a2": "Yes. Core usage is fully free."
+  },
+  "contact": {
+    "title": "Contact",
+    "advisorRole": "Device Advisor",
+    "whatsapp": "Chat on WhatsApp"
+  },
+  "auth": {
+    "loginTitle": "Sign In",
+    "signupTitle": "Create Account",
+    "name": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "university": "University",
+    "major": "Major",
+    "submitLogin": "Login",
+    "submitSignup": "Sign Up",
+    "noAccount": "No account?",
+    "haveAccount": "Already have an account?",
+    "invalid": "Invalid credentials",
+    "required": "All fields are required",
+    "emailExists": "Email already exists"
+  },
+  "common": {
+    "whatsapp": "WhatsApp"
+  }
+}
